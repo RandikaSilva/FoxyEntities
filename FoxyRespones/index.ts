@@ -1,2 +1,2 @@
-export * from './src/Auth';
+export * from './src/ReponesAuth';
 export * from './src/ResponseData';
